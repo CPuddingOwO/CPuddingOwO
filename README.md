@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CPuddingOwO
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, There!
+- 🌱 There is ....
 
-<!---
-CPuddingOwO/CPuddingOwO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"><img src="https://count.getloli.com/get/@CPuddingOwO" alt=""></div>
+
+<div align="center">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=CPuddingOwO"  alt="https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPuddingOwO&layout=compact"  alt="https://github.com/anuraghazra/github-readme-stats"/>
+</div>
