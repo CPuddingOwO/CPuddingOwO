@@ -1,5 +1,7 @@
 - 👋 Hi, There!
-- 🌱 There is ....
+- 🌱 There is CPuddingOwO
+- ✉️ Email is [cpuddingowo@gmail.com](mailto:cpuddingowo@gmail.com)
+- 📟 Website is [me.cpudding.net](https://me.cpudding.net)
 
 <div align="center"><img src="https://count.getloli.com/get/@CPuddingOwO" alt=""></div>
 
