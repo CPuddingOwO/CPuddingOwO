@@ -23,7 +23,7 @@
       srcset="https://github-stats-alpha.vercel.app/api?username=CPuddingOwO&cc=2b213a&tc=e5289e&ic=ffffff&bc=ffffff" />
     <img 
       height="175px" 
-      src="https://github-stats-alpha.vercel.app/api?username=CPuddingOwO&bc=eae9e9" 
+      src="https://github-stats-alpha.vercel.app/api?username=CPuddingOwO&bc=eae9e9&tc=417e87&ic=417e87" 
       alt="Commits" />
   </picture>
 
