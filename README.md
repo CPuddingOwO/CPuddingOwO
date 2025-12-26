@@ -39,5 +39,14 @@
   </picture>
 
   <!-- 语言统计卡 -->
-  
+  <!--
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CPuddingOwO&layout=compact" />
+    <img 
+      height="175px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPuddingOwO&layout=compact" 
+      alt="Most Language Used" />
+  </picture> -->
 </div>
