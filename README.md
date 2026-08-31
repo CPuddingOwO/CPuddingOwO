@@ -31,10 +31,10 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-rho-sable-26.vercel.app/api?username=CPuddingOwO&show_icons=true&theme=synthwave" />
+        srcset="https://github-stats-extended.vercel.app/api?username=CPuddingOwO&show_icons=true&theme=synthwave" />
       <img
         height="170px"
-        src="https://github-readme-stats-rho-sable-26.vercel.app/api?username=CPuddingOwO&show_icons=true&theme=transparent"
+        src="https://github-stats-extended.vercel.app/api?username=CPuddingOwO&show_icons=true&theme=transparent"
         alt="GitHub Activity" />
     </picture>
     <!-- 语言统计卡 -->
